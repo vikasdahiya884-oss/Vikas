@@ -1,0 +1,7 @@
+DAHIYA AI Phone — prototype / demo
+
+This is NOT a production-ready phone dialer. Do NOT set it as your default phone app for daily use. Incoming call handling, outgoing dialing, emergency calls, Bluetooth and other important features are incomplete. AI Attend is only a demonstration button; it cannot speak to cellular callers.
+
+GitHub build: upload the CONTENTS of this ZIP (not the ZIP itself) to the root of a GitHub repository while preserving folder paths. The .github/workflows/build-apk.yml file is essential. Then Actions > Build DAHIYA AI Phone APK > Run workflow. Download the artifact from the successful run and extract app-debug.apk.
+
+On Android mobile, GitHub web upload may not preserve directory paths. Use a Git-capable client or a desktop/browser environment that can upload folders, or create files individually using GitHub's file editor. This ZIP is a source project, not an APK.
